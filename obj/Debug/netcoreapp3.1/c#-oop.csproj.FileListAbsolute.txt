@@ -1,0 +1,12 @@
+/Users/karan/Documents/GitHub/c#-oop/bin/Debug/netcoreapp3.1/c#-oop.deps.json
+/Users/karan/Documents/GitHub/c#-oop/bin/Debug/netcoreapp3.1/c#-oop.runtimeconfig.json
+/Users/karan/Documents/GitHub/c#-oop/bin/Debug/netcoreapp3.1/c#-oop.runtimeconfig.dev.json
+/Users/karan/Documents/GitHub/c#-oop/bin/Debug/netcoreapp3.1/c#-oop.dll
+/Users/karan/Documents/GitHub/c#-oop/bin/Debug/netcoreapp3.1/c#-oop.pdb
+/Users/karan/Documents/GitHub/c#-oop/obj/Debug/netcoreapp3.1/c#-oop.csprojAssemblyReference.cache
+/Users/karan/Documents/GitHub/c#-oop/obj/Debug/netcoreapp3.1/c#-oop.csproj.CoreCompileInputs.cache
+/Users/karan/Documents/GitHub/c#-oop/obj/Debug/netcoreapp3.1/c#-oop.AssemblyInfoInputs.cache
+/Users/karan/Documents/GitHub/c#-oop/obj/Debug/netcoreapp3.1/c#-oop.AssemblyInfo.cs
+/Users/karan/Documents/GitHub/c#-oop/obj/Debug/netcoreapp3.1/c#-oop.dll
+/Users/karan/Documents/GitHub/c#-oop/obj/Debug/netcoreapp3.1/c#-oop.pdb
+/Users/karan/Documents/GitHub/c#-oop/obj/Debug/netcoreapp3.1/c#-oop.genruntimeconfig.cache
